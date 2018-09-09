@@ -1,4 +1,4 @@
-# My personal Website
+# My Personal Website
 
 This is personal resume website.
 
